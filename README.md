@@ -15,7 +15,8 @@ TNM085 - Modelleringsprojekt (2021): https://github.com/jennyrudemo/NewtonsCradl
 	
 TNM040 - Kommunikation och användargränssnitt (2019): https://github.com/davidstyrbjorn/koma-projekt
 
-Do take into account that since I was only a part of each group I cannot promise that I understand all parts of the code or even remember exactly what it was I did on each particular one.
+P.s.
+Do take into account that since I was only a part of each group I cannot promise that I understand all parts of the code or even remember exactly what it was I did on each particular one. It is also important to be aware that I am Swedish and some of these projects are primarily or partly done in Swedish, I simply chose to keep all introductions etc on GitHub in English as I am fluent in it and want English speakers to be able understand everything.
 
 
 <!---
