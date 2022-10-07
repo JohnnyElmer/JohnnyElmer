@@ -9,7 +9,7 @@ If you are interested in looking at projects I have been apart of but don't own 
 
 TNM034 - Avancerad bildbehandling (2021): https://github.com/Skrivmaskinen/ABoB-face-recognition
 
-TNM049 - Medietekniskt kandidatprojekt (2021): (Project sadly removed, Swedish presentation with Figma in description instead: https://youtu.be/luSQCV0o8_g) 
+TNM049 - Medietekniskt kandidatprojekt (2021): (Project has sadly been removed, Swedish presentation with Figma in description instead: https://youtu.be/luSQCV0o8_g) 
 	
 TNM085 - Modelleringsprojekt (2021): https://github.com/jennyrudemo/NewtonsCradle
 	
